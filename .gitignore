@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark
+spark-warehouse/
+
+# Virtual Environment
+venv/
+env/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Large Data Files
+*.parquet
+*.orc
